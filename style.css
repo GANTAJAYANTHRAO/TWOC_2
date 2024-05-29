@@ -1,0 +1,35 @@
+.body{
+    padding: 50px;
+    background-image: url(T.W.O.C_BG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    
+}
+
+
+
+.container{
+    max-width: 600px;
+    background-color: #fff;
+    border-radius: 20px;
+    margin: auto;
+    padding: 50px;
+    margin-top: 50px;
+}
+
+
+
+.h1{
+    text-align: center;
+}
+
+
+
+.form-group{
+    margin-bottom: 30px;
+}
+
+
+
